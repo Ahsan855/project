@@ -56,7 +56,7 @@
   border-radius: 40px;
 }
 .round-one {
-  position: absolute;
+  margin: 0 18px;
   width: 34px;
   height: 34px;
   left: 451px;
@@ -64,6 +64,54 @@
   background: #357df9;
 }
 .round-one p {
+  font-family: "Poppins";
+  font-style: normal;
+  margin-top: 6px;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+}
+.round-two {
+  margin: 0 18px;
+  width: 34px;
+  height: 34px;
+  left: 451px;
+  border-radius: 100%;
+  background: #357df9;
+}
+.round-two p {
+  font-family: "Poppins";
+  font-style: normal;
+  margin-top: 6px;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+}
+.round-three {
+  margin: 0 18px;
+  width: 34px;
+  height: 34px;
+  left: 451px;
+  border-radius: 100%;
+  background: #357df9;
+}
+.round-three p {
+  font-family: "Poppins";
+  font-style: normal;
+  margin-top: 6px;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+}
+.round-four {
+  margin: 0 18px;
+  width: 34px;
+  height: 34px;
+  left: 451px;
+  border-radius: 100%;
+  background: #357df9;
+}
+.round-four p {
   font-family: "Poppins";
   font-style: normal;
   margin-top: 6px;

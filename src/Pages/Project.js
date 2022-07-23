@@ -13,16 +13,24 @@ const Project = () => {
         <div className="mt-[42px]">
           <div className="w-[698px] h-[606px] border-added mx-auto ">
             <div className="mt-[48px]">
-              <div className="flex items-baseline w-[596px] mx-auto justify-center mb-[38px]">
-                <div className="round-one">
-                  <p className="my-auto">1</p>
+              <div className="mb-[38px]">
+                <div className="flex justify-center items-baseline">
+                  <div className="round-one">
+                    <p>1</p>
+                  </div>
+                  <div className="horigental"></div>
+                  <div className="round-two">
+                    <p>2</p>
+                  </div>
+                  <div className="horigental"></div>
+                  <div className="round-three">
+                    <p>3</p>
+                  </div>
+                  <div className="horigental"></div>
+                  <div className="round-four">
+                    <p>4</p>
+                  </div>
                 </div>
-                <div className="horigental"></div>
-                <div>2</div>
-                <div className="horigental"></div>
-                <div>3</div>
-                <div className="horigental"></div>
-                <div>4</div>
               </div>
               <hr className="w-[596px] text-[#D9DBE9] mx-auto" />
             </div>
@@ -67,7 +75,9 @@ const Project = () => {
           <div className="flex justify-between items-baseline">
             <p className="text-[16px] text-left mt-[50px]">
               Already have an account?{" "}
-              <span className="text-blue-500 underline">Sign in</span>
+              <span className="text-blue-500 underline cursor-pointer">
+                Sign in
+              </span>
             </p>
             <button className="bg-desing">Submit Payment</button>
           </div>
