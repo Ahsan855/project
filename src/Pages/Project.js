@@ -1,5 +1,9 @@
 import React from "react";
 import "../Pages/project.css";
+import img from "../img/Text.jpg";
+import img1 from "../img/mc-logo-52.svg";
+import img3 from "../img/gg.png";
+import img5 from "../img/Untitled.png";
 const Project = () => {
   return (
     <div className="p-30">
@@ -67,8 +71,21 @@ const Project = () => {
                     placeholder="***"
                   />
                 </div>
-                <div className="mt-16">
-                  <h1>visa ai section apni koren nasir vai</h1>
+
+                <div className="mt-20 flex justify-center items-baseline">
+                  <div className="p-2 w-[43.32px] h-[13.99px]">
+                    <img src={img} alt="" />
+                  </div>
+                  <div className="p-2  w-[43.32px] h-[13.99px]">
+                    <img src={img1} alt="" />
+                  </div>
+
+                  <div className="p-2 w-[65.21px] h-[5.08px]">
+                    <img src={img3} alt="" />
+                  </div>
+                  <div className="p-2 w-[60.32px] h-[13.99px]">
+                    <img src={img5} alt="" />
+                  </div>
                 </div>
               </div>
             </form>
