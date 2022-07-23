@@ -50,11 +50,13 @@ const Project = () => {
           </div>
         </div>
         <div className="w-[698px] h-[606px] mx-auto">
-          <p className="text-[16px] text-left mt-[50px]">
-            Already have an account?{" "}
-            <span className="text-blue-500 underline">Sign in</span>
-          </p>
-          <button className="bg-b">Submit Payment</button>
+          <div className="flex justify-between items-baseline">
+            <p className="text-[16px] text-left mt-[50px]">
+              Already have an account?{" "}
+              <span className="text-blue-500 underline">Sign in</span>
+            </p>
+            <button className="bg-desing">Submit Payment</button>
+          </div>
         </div>
       </div>
     </div>

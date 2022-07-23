@@ -37,3 +37,13 @@
   box-shadow: 0px 2px 6px rgba(19, 18, 66, 0.07);
   border-radius: 6px;
 }
+.bg-desing {
+  background: #357df9;
+  color: white;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 18px;
+  padding: 20px 40px 21px;
+  box-shadow: 0px 3px 12px rgba(53, 125, 249, 0.18);
+  border-radius: 6px;
+}
