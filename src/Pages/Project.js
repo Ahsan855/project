@@ -5,7 +5,7 @@ const Project = () => {
   return (
     <div className="p-30">
       <div>
-        <h1 className="text-4xl font-semibold">Welcome to Showcase 👋</h1>
+        <h1 className="text-4xl font-semibold mt-10">Welcome to Showcase 👋</h1>
         <p>
           Create an account and start showcasing your <br />
           products to a global audience looking for new things!
@@ -34,10 +34,10 @@ const Project = () => {
               </div>
               <hr className="w-[596px] text-[#D9DBE9] mx-auto" />
             </div>
-            <h1 className="heading1 mt- text-left ml-5 mt-20">
+            <h1 className="heading1 text-left ml-[46px] mt-20">
               Subscribe for $19 /month
             </h1>
-            <h1 className="design text-left ml-5">
+            <h1 className="design text-left ml-[46px]">
               Submit your credit card details
             </h1>
             <form action="">
