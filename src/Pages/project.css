@@ -47,3 +47,27 @@
   box-shadow: 0px 3px 12px rgba(53, 125, 249, 0.18);
   border-radius: 6px;
 }
+.horigental {
+  width: 98.09px;
+  height: 6px;
+  left: 671.09px;
+  top: 351.5px;
+  background: #357df9;
+  border-radius: 40px;
+}
+.round-one {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 451px;
+  border-radius: 100%;
+  background: #357df9;
+}
+.round-one p {
+  font-family: "Poppins";
+  font-style: normal;
+  margin-top: 6px;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+}

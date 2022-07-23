@@ -12,7 +12,18 @@ const Project = () => {
         </p>
         <div className="mt-[42px]">
           <div className="w-[698px] h-[606px] border-added mx-auto ">
-            <div className="mt-20">
+            <div className="mt-[48px]">
+              <div className="flex items-baseline w-[596px] mx-auto justify-center mb-[38px]">
+                <div className="round-one">
+                  <p className="my-auto">1</p>
+                </div>
+                <div className="horigental"></div>
+                <div>2</div>
+                <div className="horigental"></div>
+                <div>3</div>
+                <div className="horigental"></div>
+                <div>4</div>
+              </div>
               <hr className="w-[596px] text-[#D9DBE9] mx-auto" />
             </div>
             <h1 className="heading1 mt- text-left ml-5 mt-20">
