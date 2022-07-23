@@ -10,9 +10,12 @@ const Project = () => {
           Create an account and start showcasing your <br />
           products to a global audience looking for new things!
         </p>
-        <div>
-          <div className="w-[698px] h-[606px] border-added mx-auto mt-20">
-            <h1 className="heading1 mt- text-left ml-5">
+        <div className="mt-[42px]">
+          <div className="w-[698px] h-[606px] border-added mx-auto ">
+            <div className="mt-20">
+              <hr className="w-[596px] text-[#D9DBE9] mx-auto" />
+            </div>
+            <h1 className="heading1 mt- text-left ml-5 mt-20">
               Subscribe for $19 /month
             </h1>
             <h1 className="design text-left ml-5">
