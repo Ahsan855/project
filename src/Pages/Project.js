@@ -1,12 +1,13 @@
 import React from "react";
 import "../Pages/project.css";
-
 const Project = () => {
   return (
     <div className="p-30">
       <div>
-        <h1 className="text-4xl font-semibold mt-10">Welcome to Showcase 👋</h1>
-        <p>
+        <h1 className="text-4xl font-semibold mt-10 text-[#0F1419]">
+          Welcome to Showcase 👋
+        </h1>
+        <p className="text-[#0F1419] mt-3">
           Create an account and start showcasing your <br />
           products to a global audience looking for new things!
         </p>
@@ -66,7 +67,9 @@ const Project = () => {
                     placeholder="***"
                   />
                 </div>
-                <div className="mt-8">Visa</div>
+                <div className="mt-16">
+                  <h1>visa ai section apni koren nasir vai</h1>
+                </div>
               </div>
             </form>
           </div>
